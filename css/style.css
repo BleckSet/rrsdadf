@@ -995,6 +995,9 @@ header {
 }
 
 @media (max-width: 1220px) {
+  .advantages{
+  gap:40px;
+  }
   .desk {
     display: none;
   }
